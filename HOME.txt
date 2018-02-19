@@ -1,0 +1,188 @@
+<item>
+<title>[COLOR cyan]Donacije za razvoj i podršku paypal.me/kodiphoenixreborn[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.vodafone.de/media/img/teaser/170413-paypal-08-325x226-dt-s.jpg</thumbnail>
+<fanart>https://www.vodafone.de/media/img/teaser/170413-paypal-08-325x226-dt-s.jpg</fanart>
+<externallink>https://</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Facebook: Kodi Phoenix Reborn[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.facebook.com/images/fb_icon_325x325.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2000px-Facebook_New_Logo_%282015%29.svg.png</fanart>
+<externallink>https://</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Bikerdays Lista[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://pastebin.com/cache/img/12/23/11/1798007.jpg</thumbnail>
+<fanart>http://www.smartphoneplans.ca/uploads/6/5/4/5/65452269/s226596607546629208_p2_i13_w525.png</fanart>
+<externallink>https://raw.githubusercontent.com/BIKERDAYS/BIKERDAYS-IPTV/master/lista.m3u</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Radio[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.radiokosava.rs/folder/muzika-nonstop.jpg</thumbnail>
+<fanart>http://www.radiokosava.rs/folder/muzika-nonstop.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/RADIO%20STANICE/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Programi za djecu[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.luisescobarblog.com/wp-content/uploads/2013/12/Top-10-Animated-Family-Movies.jpg</thumbnail>
+<fanart>http://www.luisescobarblog.com/wp-content/uploads/2013/12/Top-10-Animated-Family-Movies.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/TV%20PROGRAMI%20ZA%20DJECU/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Dugometražni Crtani[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.luisescobarblog.com/wp-content/uploads/2013/12/Top-10-Animated-Family-Movies.jpg</thumbnail>
+<fanart>http://www.luisescobarblog.com/wp-content/uploads/2013/12/Top-10-Animated-Family-Movies.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/DUGOMETRAZNI%20CRTANI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Epizodni Crtani[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.luisescobarblog.com/wp-content/uploads/2013/12/Top-10-Animated-Family-Movies.jpg</thumbnail>
+<fanart>http://www.luisescobarblog.com/wp-content/uploads/2013/12/Top-10-Animated-Family-Movies.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/EPIZODNI%20CRTANI/New%20Text%20Document.txt</externallink>
+<info><info>
+
+<item>
+<title>[COLOR cyan]Hrvatski Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.kuglanje.hr/files/HKS/Slike/Hrvatska_zastava.jpg</thumbnail>
+<fanart>http://www.kuglanje.hr/files/HKS/Slike/Hrvatska_zastava.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/HRVATSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]BIH Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.zoplanet.com.hr/wp-content/uploads/2017/08/bosna-herzegovina-flag.jpg</thumbnail>
+<fanart>http://www.zoplanet.com.hr/wp-content/uploads/2017/08/bosna-herzegovina-flag.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/BOSANSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Srpski Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.alo.rs/resources/images/0000/000/265/Srbija%20Zastava_1000x0.jpg</thumbnail>
+<fanart>http://www.alo.rs/resources/images/0000/000/265/Srbija%20Zastava_1000x0.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/SRPSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Dokumentarni Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.planwallpaper.com/static/images/121.jpg</thumbnail>
+<fanart>https://www.planwallpaper.com/static/images/121.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/DOKUMENTARNI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Filmski Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.hkepci.com/data/out/1/265448-hd-movie.jpg</thumbnail>
+<fanart>http://www.hkepci.com/data/out/1/265448-hd-movie.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/FILMSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Pink Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.sat-multimedia.com/wp-content/uploads/2015/04/pinkTV.jpg</thumbnail>
+<fanart>http://www.sat-multimedia.com/wp-content/uploads/2015/04/pinkTV.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/PINK%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Informativni Program[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://hr.n1info.com/Picture/87644/jpeg/n121.jpg</thumbnail>
+<fanart>http://hr.n1info.com/Picture/87644/jpeg/n121.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/INFORMATIVNIVNI%20PROGRAMI/INFORMATIVNI.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Muzika EX-YU[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.ballroomguide.com/images/music.jpg</thumbnail>
+<fanart>http://www.ballroomguide.com/images/music.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/MUZIKA%20EX%20YU/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Strana Muzika[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.ballroomguide.com/images/music.jpg</thumbnail>
+<fanart>http://www.ballroomguide.com/images/music.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/STRANA%20MUZIKA/STRANA%20MUZIKA.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Makedonski Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/300px-Flag_of_Macedonia.svg.png</thumbnail>
+<fanart>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_the_Republic_of_Macedonia_1992-1995.svg/400px-Flag_of_the_Republic_of_Macedonia_1992-1995.svg.png</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/MAKEDONSKI%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Slovenski Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Civil_Ensign_of_Slovenia.svg/250px-Civil_Ensign_of_Slovenia.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Civil_Ensign_of_Slovenia.svg/250px-Civil_Ensign_of_Slovenia.svg.png</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/SLOVENSKI%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Talijanski Programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.gss-media.com/portal/wp-content/uploads/2016/12/Italija-Zastava.jpg</thumbnail>
+<fanart>https://www.gss-media.com/portal/wp-content/uploads/2016/12/Italija-Zastava.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/TALIJANSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Sport Domaći[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/SPORTSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Sport Strani[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/STRANI%20SPORTSKI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Ostali strani tv programi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>http://www.dailygossip.org/wp-content/uploads/2017/01/program.jpg</thumbnail>
+<fanart>http://www.dailygossip.org/wp-content/uploads/2017/01/program.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/OSTALI%20STRANI%20TV%20PROGRAMI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Domaci Filmovi[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.oglasindo.rs/uploads/16/02/19/01/701701_org.jpg</thumbnail>
+<fanart>https://www.oglasindo.rs/uploads/16/02/19/01/701701_org.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Marko%20Bader/DOMACI%20FILMOVI/DOMACI%20FILMOVI.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Filmovi sa Prijevodom[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://i.imgur.com/3l7Zd7Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/3l7Zd7Y.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/FILMOVI%20SA%20PRJEVODOM/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]Filmovi Potrebno Ukljucit Prijevod[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://i.imgur.com/3l7Zd7Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/3l7Zd7Y.jpg</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Marko%20Bader/M.B%20ADDON%20JAVNI/FILMOVI%20GODINE%20I%20ZARNOVI/New%20Text%20Document.txt</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]LIVE KODI SERBIA[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://4.bp.blogspot.com/-WCcXAGXt2MI/WEbGCHq3tGI/AAAAAAAAUgs/XmOfcivvPgM4_N6S3ySo4XTYc6qCGre3ACLcB/s1600/Live%2BTV%2BSerbia%2BAddon%2BKodi%2B1.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-WCcXAGXt2MI/WEbGCHq3tGI/AAAAAAAAUgs/XmOfcivvPgM4_N6S3ySo4XTYc6qCGre3ACLcB/s1600/Live%2BTV%2BSerbia%2BAddon%2BKodi%2B1.png</fanart>
+<externallink>http://goo.gl/vXNXKz</externallink>
+<item>
+
+<item>
+<title>[COLOR cyan]TEST[/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://testcreative.co.uk/wp-content/uploads/2017/10/Test-Logo-Circle-black-transparent.png</thumbnail>
+<fanart>https://testcreative.co.uk/wp-content/uploads/2017/10/Test-Logo-Circle-black-transparent.png</fanart>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/Phoenix/TEST/New%20Text%20Document.txt</externallink>
+<item>
